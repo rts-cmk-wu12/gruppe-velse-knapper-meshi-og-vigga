@@ -1,0 +1,17 @@
+#popupDiv { 
+    display: none; 
+
+    }   
+   
+ #closePopup {            
+         display: block;             
+    }
+
+#spinButton {
+    transition: transform 0.5s ease;
+}
+
+.spin {
+    transform: rotate(360deg);
+}
+
